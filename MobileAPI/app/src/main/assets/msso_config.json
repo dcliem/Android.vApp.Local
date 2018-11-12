@@ -31,11 +31,11 @@
         "client": {
             "organization": "Mi Mi JSC",
             "description": "What is the app used for?",
-            "client_name": "Mobile App",
+            "client_name": "Mobile Auth",
             "client_type": "confidential",
             "registered_by": "admin",
             "client_custom": {
-                "templateId": "3caf2632-d0db-4e72-8088-6214fe843df7"
+                "templateId": "03e35ffd-64c1-4048-85d2-5331ad27bd6b"
             },
             "client_ids": [
                 {
@@ -44,7 +44,7 @@
                     "client_key_custom": {},
                     "redirect_uri": "camssoras://com.ca.ras",
                     "service_ids": "",
-                    "client_id": "44d83cf4-e123-4f17-bc64-a8eed8a6f339",
+                    "client_id": "17ce0997-4375-4c42-9286-c9adde79b0fb",
                     "status": "ENABLED",
                     "environment": "Android",
                     "scope": "openid msso phone profile address email user_role msso_client_register msso_register mas_messaging mas_storage mas_identity mas_identity_retrieve_users mas_identity_create_users mas_identity_update_users mas_identity_delete_users mas_identity_retrieve_groups mas_identity_create_groups mas_identity_update_groups mas_identity_delete_groups",

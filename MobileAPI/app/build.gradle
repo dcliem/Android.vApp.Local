@@ -38,11 +38,11 @@ dependencies {
 
     // MAS Integration begin
     // Note: Replace with the correct version below
-    implementation 'com.ca:mas-foundation:1.6.00'
-    implementation 'com.ca:mas-connecta:1.6.00' // (Optional) Only required when using mas connecta
-    implementation 'com.ca:mas-storage:1.6.00' // (Optional) Only required when using mas storage
-    implementation 'com.ca:mas-identity-management:1.6.00' // (Optional) Only required when using mas identity management
-    implementation 'com.ca:masui:1.6.00' // (Optional) Only required when using MASUI Template. The MAS UI library provides sample user interfaces for Login, OTP, Social Login, and Enterprise Browser.
+    implementation 'com.ca:mas-foundation:1.8.00'
+    implementation 'com.ca:mas-connecta:1.8.00' // (Optional) Only required when using mas connecta
+    implementation 'com.ca:mas-storage:1.8.00' // (Optional) Only required when using mas storage
+    implementation 'com.ca:mas-identity-management:1.8.00' // (Optional) Only required when using mas identity management
+    implementation 'com.ca:masui:1.8.00' // (Optional) Only required when using MASUI Template. The MAS UI library provides sample user interfaces for Login, OTP, Social Login, and Enterprise Browser.
     // MAS Integration end
 
     // Google Support libraries
